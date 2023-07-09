@@ -1,3 +1,5 @@
+//Coderbyte Searching Challenge in JavaScript
+
 function SearchingChallenge(str) {
   const words = str.split(" ");
   let maxRepeatedLetters = 0;
